@@ -17,7 +17,7 @@ jobs:
         version: ['3.9', '3.10']
         
     steps:
-      - name : code Checkout
+      - name: code Checkout
         uses: actions/checkout@v2
 
       - name: setup python 
