@@ -1,6 +1,6 @@
-name : CI
+name: CI
 
-on = push 
+on: push 
 
 jobs:
   linting:
